@@ -1,4 +1,6 @@
-/* Global Styles */
+/* =======================
+   Global Styles
+======================= */
 * {
   margin: 0;
   padding: 0;
@@ -13,7 +15,14 @@ body {
   scroll-behavior: smooth;
 }
 
-/* Header */
+a {
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+/* =======================
+   Header & Navigation
+======================= */
 header {
   background-color: #ffffff;
   padding: 1rem 2rem;
@@ -28,10 +37,8 @@ header {
 
 nav a {
   margin-left: 1rem;
-  text-decoration: none;
   color: #1f2937;
   font-weight: 500;
-  transition: all 0.3s ease;
 }
 
 nav a:hover {
@@ -39,7 +46,9 @@ nav a:hover {
   transform: translateY(-2px);
 }
 
-/* Hero Section */
+/* =======================
+   Hero Section
+======================= */
 .hero {
   text-align: center;
   padding: 6rem 2rem;
@@ -52,10 +61,10 @@ nav a:hover {
 .profile-photo {
   width: 150px;
   height: 150px;
-  object-fit: cover;
   border-radius: 50%;
-  margin-bottom: 1rem;
   border: 4px solid white;
+  margin-bottom: 1rem;
+  object-fit: cover;
   transition: transform 0.5s ease;
 }
 
@@ -87,23 +96,23 @@ nav a:hover {
   flex-wrap: wrap;
 }
 
-.hero .btn {
+.btn {
   background: white;
   color: #2563eb;
   padding: 0.75rem 1.5rem;
   border-radius: 10px;
-  text-decoration: none;
   font-weight: 600;
-  transition: all 0.3s ease;
 }
 
-.hero .btn:hover {
+.btn:hover {
   background: #e0e7ff;
   transform: translateY(-3px);
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
-/* Section Styles */
+/* =======================
+   Sections
+======================= */
 section {
   padding: 4rem 2rem;
   max-width: 1000px;
@@ -118,7 +127,9 @@ h2 {
   position: relative;
 }
 
-/* Cards Layout */
+/* =======================
+   Cards
+======================= */
 .cards {
   display: flex;
   flex-wrap: wrap;
@@ -165,12 +176,10 @@ h2 {
 }
 
 .card a {
-  text-decoration: none;
   color: #7c3aed;
   font-weight: 600;
   display: inline-block;
   margin: 0.25rem;
-  transition: all 0.3s ease;
 }
 
 .card a:hover {
@@ -178,9 +187,11 @@ h2 {
   transform: translateY(-2px);
 }
 
-/* Skills Section */
+/* =======================
+   Skills Section
+======================= */
 #skills ul {
-  list-style-type: none;
+  list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -200,7 +211,9 @@ h2 {
   transform: translateY(-3px);
 }
 
-/* Contact Section */
+/* =======================
+   Contact Section
+======================= */
 #contact p, #contact a {
   font-size: 1rem;
   margin: 0.5rem 0;
@@ -208,9 +221,7 @@ h2 {
 
 #contact a {
   color: #2563eb;
-  text-decoration: none;
   font-weight: 500;
-  transition: all 0.3s ease;
 }
 
 #contact a:hover {
@@ -218,28 +229,29 @@ h2 {
   transform: translateY(-2px);
 }
 
-/* Responsive Design */
+/* =======================
+   Responsive Design
+======================= */
 @media (max-width: 768px) {
   .cards {
     flex-direction: column;
     align-items: center;
   }
-  
+
   header {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   nav a {
     margin: 0.5rem 0;
   }
-  
+
   .hero h1 {
     font-size: 2rem;
   }
-  
+
   .hero h2 {
     font-size: 1rem;
   }
 }
-
