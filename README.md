@@ -21,7 +21,7 @@ Read about my professional background, certifications, and career journey.
 
 ### 🔹 Download Resume
 Access my full professional resume for more details on my experience and skills.  
-[Download Resume](Asive Khenqa _CV (2).pdf)
+[Asive Khenqa CV](Asive%20Khenqa%20_CV%20(2).pdf)
 
 ---
 
