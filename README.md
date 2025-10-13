@@ -34,7 +34,7 @@ With a Grade 12 background in Mathematics, Physical Sciences, and Life Sciences 
 
 ## Education
 
-### ![Education Icon](images/education.png) Jongilanga Senior Secondary School — Matric, 2018
+### ![Education Icon](images/jongilanga.png) Jongilanga Senior Secondary School — Matric, 2018
 Focused on subjects including Mathematics, Physical Sciences, and Life Sciences, building a strong analytical and technical foundation.
 
 ### ![Education Icon](images/marketing.png) Russell Road Campus, Port Elizabeth College — Certificate in Marketing Management (N4 & N5), 2021
