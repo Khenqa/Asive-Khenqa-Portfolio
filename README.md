@@ -1,87 +1,74 @@
-# Asive Khenqa
+# Asive Khenqa | AI & IT Support Portfolio
 
-**Home | About | Projects | Skills | Contact**
-
----
-
-## Hi, I’m Asive Khenqa
-**IT Support Specialist | Certificate in Marketing Management (N4 & N5) | Emerging AI Innovator**
-
+Hi, I’m **Asive Khenqa**  
 Aspiring ICT Technician and IT Support Specialist passionate about solving tech challenges, blending hands-on troubleshooting skills with strong analytical and communication expertise.
 
 ---
 
-### 🔹 View My Projects
-Explore a range of projects showcasing my technical expertise, creativity, and growing AI integration.  
-[View Projects](#projects)
+## 🚀 Key Features for this First Version
 
-### 🔹 Learn More About Me
-Read about my professional background, certifications, and career journey.  
-[About Me](#about)
-
-### 🔹 Download Resume
-Access my full professional resume for more details on my experience and skills.  
-[Asive Khenqa CV](Asive%20Khenqa%20_CV%20(2).pdf)
+- **Hero Section**: Compelling personal branding statement with profile photo and call-to-action buttons (View Projects, Learn More, Download CV)  
+- **Interactive Project Showcase**: Projects displayed in card format with medium-sized images, short descriptions, **live demo links**, and **GitHub repository links**  
+- **Technical Skills Visualization**: Skills displayed as tags/cards with hover effects for emphasis  
+- **Professional Timeline/Journey**: Education and work experience presented as cards with images and descriptions  
+- **Contact and Career Objective Sections**: Includes email, GitHub profile, location, and CV download option  
+- **Responsive Design**: Optimized layout for mobile, tablet, and desktop devices  
 
 ---
 
-## About
-I am an aspiring ICT Technician and IT Support professional with hands-on experience in desktop troubleshooting, software installation, hardware maintenance, and end-user support. I completed a Technical Support Learnership and an ICT Technician trainee program, where I developed practical skills in installing operating systems, updating software, and resolving technical issues in educational environments.
+## 🎨 Design Elements
 
-With a Grade 12 background in Mathematics, Physical Sciences, and Life Sciences and a Certificate in Marketing Management (N4 & N5), I combine strong analytical thinking with effective communication and business skills. I am passionate about technology, problem-solving, and providing reliable IT support, and I aim to continuously grow my expertise in the ICT field.
-
----
-
-## Education
-
-### ![Education Icon](images/jongilanga.png) Jongilanga Senior Secondary School — Matric, 2018
-Focused on subjects including Mathematics, Physical Sciences, and Life Sciences, building a strong analytical and technical foundation.
-
-### ![Education Icon](images/marketing.png) Russell Road Campus, Port Elizabeth College — Certificate in Marketing Management (N4 & N5), 2021
-Gained valuable knowledge in business, communication, and management—enhancing both technical and interpersonal skills.
+- **Modern Gradient Backgrounds**: Blues and purples to convey tech expertise, applied to hero section and project/education cards  
+- **Smooth Animations and Hover Effects**: Buttons, cards, images, and skill tags have subtle lift, shadow, and scale effects on hover  
+- **Clean Typography Hierarchy**: H1/H2/H3 structure for readability and professional appearance  
+- **Professional Color Palette**: Balanced blues, purples, and neutral backgrounds for a polished look  
+- **Mobile-First Responsive Design**: Flexible layouts, wrapping cards, and scalable typography for all screen sizes  
 
 ---
 
-## Projects
+## 🧩 Featured Projects
 
-### ![Project Image](images/ai-resume-builder.png) AI Resume Builder
-**Description:** A web app that generates smart, professional resumes using AI.  
-**Links:** [Live Demo](https://your-demo-link.com) | [GitHub Code](https://github.com/Asive-khenqa/ai-resume-builder)
-
-### ![Project Image](images/custom-content-generator.png) Custom Content Generator
-**Description:** Creates personalized content like bios, blogs, and product descriptions.  
-**Links:** [Live Demo](https://your-demo-link.com) | [GitHub Code](https://github.com/Asive-khenqa/custom-content-generator)
-
-### ![Project Image](images/end-to-end-ai.png) End-to-End AI Solution
-**Description:** Integrates AI model training with full-stack web deployment.  
-**Links:** [Live Demo](#) | [GitHub Code](https://github.com/Asive-khenqa/end-to-end-ai-solution)
+| Project | Description | Live Demo | GitHub |
+| ------- | ----------- | --------- | ------ |
+| AI Resume Builder | Generates smart, professional resumes using AI | [View Demo](#) | [GitHub](https://github.com/Asive-khenqa/ai-resume-builder) |
+| Custom Content Generator | Creates personalized content like blogs, bios, and product descriptions | [View Demo](#) | [GitHub](https://github.com/Asive-khenqa/custom-content-generator) |
+| End-to-End AI Solution | Integrates AI model training with full-stack web deployment | [Coming Soon](#) | [GitHub](https://github.com/Asive-khenqa/end-to-end-ai-solution) |
 
 ---
 
-## Skills
-**Technical Skills:**  
+## 🎓 Education
+
+| Education | Description |
+| --------- | ----------- |
+| **Jongilanga Senior Secondary School**, 2018 | Focused on Mathematics, Physical Sciences, and Life Sciences, building a strong analytical and technical foundation |
+| **Russell Road Campus, Port Elizabeth College**, 2021 | Certificate in Marketing Management (N4 & N5). Gained valuable knowledge in business, communication, and management—enhancing both technical and interpersonal skills |
+
+---
+
+## 🛠️ Skills
+
 - IT Support & Troubleshooting  
 - Desktop & Hardware Maintenance  
 - Software Installation & Updates  
 - Windows OS & Microsoft Office  
-
-**AI & Development Skills:**  
-- Python (Beginner)  
-- OpenAI API Integration  
+- Python (Beginner) & OpenAI API Integration  
 - React, TypeScript, Tailwind CSS  
-
-**Soft Skills:**  
 - Communication & Team Collaboration  
-- Analytical Thinking  
-- Problem-Solving  
+- Analytical Thinking & Problem-Solving  
 
 ---
 
-## Contact
-📧 **Email:** [asivekhenqa@gmail.com](mailto:asivekhenqa@gmail.com)  
-🐱 **GitHub:** [github.com/Asive-khenqa](https://github.com/Asive-khenqa)  
-📍 **Location:** Port Elizabeth, South Africa  
+## 📫 Contact
+
+- **Email:** [asivekhenqa@gmail.com](mailto:asivekhenqa@gmail.com)  
+- **GitHub:** [github.com/Asive-khenqa](https://github.com/Asive-khenqa)  
+- **Location:** Port Elizabeth, South Africa  
+- **CV Download:** [Asive Khenqa _CV (2).pdf](Asive%20Khenqa%20_CV%20(2).pdf)
 
 ---
 
-**Created with dedication and continuous learning by Asive Khenqa.**
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
+Created with ❤️ by **Asive Khenqa**
